@@ -1,0 +1,11 @@
+{
+  "githubUser": "btholt",
+  "code": "https://github.com/btholt/complete-intro-to-react-v6",
+  "url": "https://brianholt.me",
+  "description": "This is an example of how people should create their JSON files",
+  "tags": [
+    "typescript",
+    "tailwind",
+    "petfinder"
+  ]
+}
